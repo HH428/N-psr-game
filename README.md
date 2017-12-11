@@ -19,7 +19,7 @@ The simulation results show in Matlab command windows as follow.
 
 You may chage player's strategy in the code by you self. 
 
-- QH
+\- QH
 
 
 
