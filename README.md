@@ -5,6 +5,7 @@ This a simple paper-scissor-rock game simulator in Matlab. I built it in 10 min 
 
 
 The simulation results show in Matlab command windows as follow. 
+
 ```
 ** Round# 10 **
 
@@ -17,7 +18,7 @@ The simulation results show in Matlab command windows as follow.
 ** This Round Ends ** 
 ```
 
-You may chage player's strategy in the code by you self. 
+You may change player's strategy in the code by yourself. 
 
 \- QH
 
